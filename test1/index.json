@@ -1,8 +1,8 @@
 {
-  "title": "test1",
-  "description": "test1",
+  "title": "Basic command linux",
+  "description": "Basic command linux for beginer",
   "difficulty": "Beginner",
-  "time": "30",
+  "time": "30 minute",
   "details": {
     "steps": [
       {
